@@ -1,0 +1,6 @@
+@Queue.Presentstion_HostAddress = http://localhost:5261
+
+GET {{Queue.Presentstion_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
